@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="07b72f7b-4b51-4d22-8c38-362f77d5c07d" name="postgres@census2023-survey.postgres.database.azure.com Mapping">
+      <data-sources db="03850292-a88e-4ab0-92e0-3961d3dfb3f2" ddl="076c8d59-91f3-4643-837a-56f4d8dc479c" />
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="076c8d59-91f3-4643-837a-56f4d8dc479c" />
+          <option name="name" value="postgres@census2023-survey.postgres.database.azure.com (DDL)" />
+          <option name="languageId" value="PostgreSQL" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/ddl" />
+            </array>
+          </option>
+          <option name="outPath" value="C:\Users\Andriy_Shapochka\DataGripProjects\census2023-datagrip\ddl" />
+          <option name="scriptOptions">
+            <map>
+              <entry key="QualifyWithSchema" value="ALWAYS" />
+            </map>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
